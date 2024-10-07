@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pedropazin&show_icons=true&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api?username=pedropazin&show_icons=true&theme=midnight-purple&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
