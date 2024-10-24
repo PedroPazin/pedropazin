@@ -1,6 +1,8 @@
 ## Hello! I'm Pedro Pazin 👾
 My interest in development started in 2020 and, in 2022, I started high school integrated with systems development technician. I took it serious in 2023 studying python, doing leetcodes and working part-time making websites in wordpress. In 2024 I started studying c# because of a school project and later that year I began my studies in java.
 
+I'm continuing my studies doing personal projects and learning new things about programming languages and development. It's my passion and I enjoy a lot doing it.
+
 <div>
   <a href="https://www.instagram.com/pedrolucaspazin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pedro-pazin-b29256305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
